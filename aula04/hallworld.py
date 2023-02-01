@@ -1,0 +1,7 @@
+nome = input('Digite seu nome:')
+idade = input('Digite sua idade:')
+data = input('Digite sua data de nascimento:')
+mae = input('digite o nome da sua mae:')
+print('seu nome é:',nome)
+print('sua idade é:',idade)
+print('sua dat é:',data)
